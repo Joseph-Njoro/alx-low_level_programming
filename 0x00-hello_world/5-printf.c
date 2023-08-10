@@ -1,7 +1,8 @@
 #include <stdio.h>
 /**
- * initializing  main function
- * using printf instead of printf
+ *main entry point
+ * Description: prints a text using printf
+ * Return: Always 0 
  **/
 int main(void)
 {
