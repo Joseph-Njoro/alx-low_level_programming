@@ -3,8 +3,8 @@
 /**
  * swap_int - swaps the values of the vaariables
  *
- * @a placeholder for value to be swapped
- * @b placeholder for value to be swapped
+ * @a: placeholder for value to be swapped
+ * @b:paceholder for value to be swapped
  *
  * return (0) scuccess
  */
