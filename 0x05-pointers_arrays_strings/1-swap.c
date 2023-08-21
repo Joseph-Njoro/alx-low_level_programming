@@ -1,8 +1,10 @@
 #include "main.h"
 
 /**
- * main - swaps the values of the variables
- * 
+ * main - entry point into the program
+ *
+ * swap_int - swaps the values of the vaariables
+ *
  * @a placeholder for value to be swapped
  * @b placeholder for value to be swapped
  * 
@@ -11,9 +13,8 @@
 
 void swap_int(int *a, int *b)
 {
- int c;
-
-c=*a;
-*a=*b;
-*b=c;
+int c;
+c = *a;
+*a = *b;
+*b = c;
 }
