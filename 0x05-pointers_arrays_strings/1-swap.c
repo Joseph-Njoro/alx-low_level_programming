@@ -1,16 +1,13 @@
 #include "main.h"
 
 /**
- * main - entry point into the program
- *
  * swap_int - swaps the values of the vaariables
  *
  * @a placeholder for value to be swapped
  * @b placeholder for value to be swapped
- * 
+ *
  * return (0) scuccess
  */
-
 void swap_int(int *a, int *b)
 {
 int c;
