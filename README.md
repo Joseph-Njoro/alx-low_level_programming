@@ -1,1 +1,1 @@
-alx-low_level_programming repo
+alx-low_level_programming directory
